@@ -40,8 +40,7 @@ REST APIs, JWT Authentication, Google Fit API, Trading Exploration
 ## 📫 Reach Out
 
 **Email:** `santtunray@gmail.com`  
-**LinkedIn:** [linkedin.com/in/santtun]([https://www.linkedin.com/in/santtun-ray-9bb121289])    
-
+**LinkedIn:** [linkedin.com/in/santtun-ray-9bb121289](https://www.linkedin.com/in/santtun-ray-9bb121289)
 ---
 
 ✨ *“Think. Build. Transform.”* ✨  
