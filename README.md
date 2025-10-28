@@ -33,9 +33,12 @@ Curious and innovative by nature, I believe in turning code into meaningful solu
 
 | 🏅 Achievement | 🧩 Status | 📆 Year |
 |----------------|------------|--------|
-| 🥇 **Winner - Smart India Hackathon 2024** | **WINNER** | 2024 |
-| 💡 **Top AI Innovation Project (College Level)** | **SELECTED** | 2024 |
-| 🚀 **Hackathon Finalist & Team Lead** | **FINALIST** | 2023–2024 |
+| 🥇 **Winner - Smart India Hackathon (CarbonClad – Coal Mine Safety System)** | **WINNER** | 2024 |
+| 🥈 **Runner Up - Hack Fest (AICTE Innovation Drive)[IIIT]** | **RUNNER UP** | 2025 |
+| 🌍 **Top 100 Global Finalist - IDEATHON, SCRS USA Center (FIU)** | **GLOBAL FINALIST** | 2025 |
+| 🚀 **Top 105 - Google Solution Challenge** | **SELECTED** | 2025 |
+| 💡 **Top AI Innovation Project (College Level)** | **RECOGNIZED** | 2024 |
+| 🤝 **Hackathon Finalist(3+ National Events)** | **FINALIST** | 2023–2025 |
 
 </div>
 
