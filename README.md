@@ -83,16 +83,16 @@ I believe in **creating technology that feels alive** — systems that *think, a
 ## ⚡ What I’m Creating  
 
 ### 🧠 AI-Driven Innovations  
-- 🩺 **CarbonClad** – Real-time coal mine safety system (SIH 2024 Winner)  
+- 🩺 **CarbonClad** – Real-time coal mine safety system *(SIH 2024 Winner)*  
 - 🌾 **Kisan Madad** – AI-powered agritech platform helping rural farmers  
 - 📚 **Smart E-Learning** – Intelligent education platform with automated grading  
 - 🤖 **Trading Automation Bots** – Python-based intelligent market analysis  
 
 ### 🌐 Next-Gen Web Experiences  
-- Full-stack **React + Firebase** web apps  
-- **Spring Boot** backends with optimized scalability  
-- **Secure APIs** with JWT and role-based access  
-- **Real-time dashboards** for analytics and visualization  
+- Full-stack **React + Firebase** applications  
+- **Spring Boot** backends for enterprise-level scalability  
+- **JWT-secured APIs** and modular architectures  
+- **Real-time dashboards** with live analytics  
 
 ---
 
@@ -127,40 +127,39 @@ public class SanttunFocus {
         System.out.println(learning);
     }
 }
-
-```
 🤝 Let's Collaborate
+<div align="center">
 
-I'm always open to collaborations and creative partnerships!
-If you’re passionate about technology and innovation, let’s build something extraordinary together 🚀
+✨ "Collaboration fuels innovation — let’s turn ideas into reality." ✨
 
-You can connect with me to:
+</div>
 
-🤖 Co-develop AI-driven applications
+I’m always open to collaborations and creative partnerships with passionate developers, innovators, and dreamers who believe in building something extraordinary 🚀
 
-💻 Collaborate on full-stack projects
+🌐 How We Can Collaborate
 
-🎯 Work together on hackathons or startup ideas
+🤖 Co-develop AI-powered applications and automation tools
 
-🧠 Exchange knowledge about modern tech stacks
+💻 Build full-stack projects using modern tech stacks
 
-“Collaboration fuels innovation — let’s turn ideas into reality.”
+🎯 Partner for hackathons or innovation challenges
 
-💬 Let's Connect & Collaborate!
+🧠 Share insights and learnings around AI, Spring Boot, and system design
 
-I'm always excited to connect with developers, AI enthusiasts, and innovators.
-Whether you're looking to:
+Whether it’s a cutting-edge project, a bold startup idea, or a shared learning journey —
+let’s connect and create something impactful together.
 
-🚀 Collaborate on exciting AI projects
-💡 Discuss the latest in full-stack and AI development
-🎯 Partner for hackathons or product ideas
-📚 Share knowledge and grow together
-
-Reach out — I'm just an email away!
+<div align="center">
 
 📧 santtunray@gmail.com
 
+💼 LinkedIn
+ • 🌐 GitHub
+
 ✨ "Think. Build. Transform." ✨
+
 Crafting tomorrow’s intelligent digital experiences — today.
 
 ⭐ If my work resonates with you, consider giving my repositories a star! ⭐
+
+</div> ```
