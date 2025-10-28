@@ -128,39 +128,30 @@ public class SanttunFocus {
     }
 }
 ```
-🤝 Let's Collaborate
+## 🤝 Let's Connect & Collaborate!  
+
+I'm always thrilled to connect with **developers, AI enthusiasts, and visionaries** who believe in building the future through innovation and technology.  
+
+Whether you want to:  
+- 🚀 **Collaborate** on AI-driven or full-stack projects  
+- 💡 **Discuss** emerging tech trends & intelligent web solutions  
+- 🎯 **Partner** for hackathons, competitions, or startups  
+- 📚 **Share** insights, learn, and grow together  
+
+Let’s create something that **inspires and impacts** the world — one line of code at a time.  
+
 <div align="center">
 
-✨ "Collaboration fuels innovation — let’s turn ideas into reality." ✨
+### 📧 **santtunray@gmail.com**  
+
+---
+
+### ✨ *"Think | Build | Transform with Code & AI"* ✨  
+
+**Crafting tomorrow’s intelligent digital experiences — today.**  
+
+---
+
+⭐ *If my work inspires you, consider giving my repositories a star — your support keeps innovation alive!* ⭐  
 
 </div>
-
-I’m always open to collaborations and creative partnerships with passionate developers, innovators, and dreamers who believe in building something extraordinary 🚀
-
-🌐 How We Can Collaborate
-
-🤖 Co-develop AI-powered applications and automation tools
-
-💻 Build full-stack projects using modern tech stacks
-
-🎯 Partner for hackathons or innovation challenges
-
-🧠 Share insights and learnings around AI, Spring Boot, and system design
-
-Whether it’s a cutting-edge project, a bold startup idea, or a shared learning journey —
-let’s connect and create something impactful together.
-
-<div align="center">
-
-📧 santtunray@gmail.com
-
-💼 LinkedIn
- • 🌐 GitHub
-
-✨ "Think. Build. Transform." ✨
-
-Crafting tomorrow’s intelligent digital experiences — today.
-
-⭐ If my work resonates with you, consider giving my repositories a star! ⭐
-
-</div> 
